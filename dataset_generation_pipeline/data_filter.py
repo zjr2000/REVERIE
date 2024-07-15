@@ -168,7 +168,6 @@ if __name__ == '__main__':
                     'correct_rationale': content['correct_rationale'],
                     'incorrect_rationale': content['incorrect_rationale'],
                     'gemini_pro_judge': content['gemini_pro_judge'],
-                    'chatgpt_judge': content['gpt3.5_judge']
                 }
                 combined_contents.append(item)
             except Exception as e:
