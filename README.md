@@ -1,4 +1,15 @@
 # Reflective Instruction Tuning: Mitigating Hallucinations in Large Vision-Language Models
+<div align="center">
+<a href="https://zjr2000.github.io/projects/reverie">
+  <img src="https://img.shields.io/badge/project-page-blue" alt="project page">
+</a>
+<a src="https://img.shields.io/badge/arXiv-2407.11422-b31b1b.svg" href="https://arxiv.org/abs/2407.11422">
+<img src="https://img.shields.io/badge/arXiv-2407.11422-b31b1b.svg">
+</a>
+<a src="https://img.shields.io/badge/REVERIE-datasets-yellow" href="https://huggingface.co/datasets/zjr2000/REVERIE">
+<img src="https://img.shields.io/badge/REVERIE-datasets-yellow">
+</a>
+</div>
 
 ## Introduction
 
