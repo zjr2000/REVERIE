@@ -67,7 +67,7 @@ We also provide checkpoints and prediction results to facilitate the reproductio
 
 ## Citation
 If you find this repo helpful, please consider citing:
-```
+```bibtex
 @article{zhang2024reflective,
   title={Reflective Instruction Tuning: Mitigating Hallucinations in Large Vision-Language Models},
   author={Zhang, Jinrui and Wang, Teng and Zhang, Haigang and Lu, Ping and Zheng, Feng},
