@@ -65,5 +65,16 @@ We also provide checkpoints and prediction results to facilitate the reproductio
 | MMBench | [Baidu Disk Link](https://pan.baidu.com/s/1QYv24gNZW5M0ix88xDW3ag?pwd=527b)|
 | POPE | [Baidu Disk Link](https://pan.baidu.com/s/1shVTHFkshstY4CkuRvysKg?pwd=52zo)|
 
+## Citation
+If you find this repo helpful, please consider citing:
+```
+@article{zhang2024reflective,
+  title={Reflective Instruction Tuning: Mitigating Hallucinations in Large Vision-Language Models},
+  author={Zhang, Jinrui and Wang, Teng and Zhang, Haigang and Lu, Ping and Zheng, Feng},
+  journal={arXiv preprint arXiv:2407.11422},
+  year={2024}
+}
+```
+
 ## Acknowledgements
 Our experiments are conducted on several awesome open-soured LVLMs: [LLaVA](https://github.com/haotian-liu/LLaVA), [MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA) and [LLaVA-phi3](https://github.com/mbzuai-oryx/LLaVA-pp). We thank the authors for their efforts.
